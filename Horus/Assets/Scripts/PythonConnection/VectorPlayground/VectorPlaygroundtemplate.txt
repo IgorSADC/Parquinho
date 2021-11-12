@@ -1,0 +1,5 @@
+def user_function(x):
+    USER_CODE_BODY
+    return x
+
+x = user_function(x)

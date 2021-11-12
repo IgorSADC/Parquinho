@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Leveis/MainMenu.unity
+    guid: bb1ccf7e57df7724596a80a8a99f07f3
+  - enabled: 1
+    path: Assets/Scenes/Leveis/VectorPlayground.unity
+    guid: be1ac7adaccd24341b8a1696946c9427
+  - enabled: 1
+    path: Assets/Scenes/Leveis/FuncPlayground.unity
+    guid: 01ed9160bc66e0d499334c71190f30b6
+  - enabled: 1
+    path: Assets/Scenes/Leveis/FlowControl.unity
+    guid: bb1d63d335e30f84dba4c0f717c9c9aa
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 309e8b3a99d216f4188dee1b15b4aefd, type: 2}
